@@ -1,0 +1,382 @@
+<![LOG[---- Logging started 1/20/2015 3:25:16 PM ----]LOG]!><time="15:25:16.605+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Running action "Check admin$ share" on computers...]LOG]!><time="15:25:16.605+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE0221Q84...]LOG]!><time="15:25:16.742+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0221Q84 not responding to ping.]LOG]!><time="15:25:20.714+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE238008F...]LOG]!><time="15:25:21.35+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:21.695+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE238008F...]LOG]!><time="15:25:21.855+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:21.878+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE238008F!]LOG]!><time="15:25:21.906+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE2191X5H...]LOG]!><time="15:25:22.144+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:22.449+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE2191X5H...]LOG]!><time="15:25:22.531+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:22.550+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE2191X5H!]LOG]!><time="15:25:22.652+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE0221PJJ...]LOG]!><time="15:25:22.914+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:24.937+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE0221PJJ...]LOG]!><time="15:25:25.496+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:26.187+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE0221PJJ!]LOG]!><time="15:25:26.539+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE2399YDM...]LOG]!><time="15:25:26.789+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:27.93+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE2399YDM...]LOG]!><time="15:25:27.375+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:27.425+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE2399YDM!]LOG]!><time="15:25:27.535+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE11018DK...]LOG]!><time="15:25:27.804+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:28.19+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE11018DK...]LOG]!><time="15:25:28.136+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:28.171+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE11018DK!]LOG]!><time="15:25:28.281+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE11016DV...]LOG]!><time="15:25:28.554+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:29.74+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE11016DV...]LOG]!><time="15:25:29.312+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:29.363+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE11016DV!]LOG]!><time="15:25:29.542+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFESSO1...]LOG]!><time="15:25:29.835+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:30.121+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFESSO1...]LOG]!><time="15:25:30.289+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:30.332+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFESSO1!]LOG]!><time="15:25:30.464+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFEBBL1...]LOG]!><time="15:25:30.746+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:25:31.62+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFEBBL1...]LOG]!><time="15:25:31.250+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:25:31.300+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFEBBL1!]LOG]!><time="15:25:31.429+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE2270WY9...]LOG]!><time="15:25:31.746+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2270WY9 not responding to ping.]LOG]!><time="15:25:34.183+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECWTRAIN23...]LOG]!><time="15:25:34.445+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECWTRAIN23 not responding to ping.]LOG]!><time="15:25:36.882+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE114035D...]LOG]!><time="15:25:37.152+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE114035D not responding to ping.]LOG]!><time="15:25:39.562+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFETST4...]LOG]!><time="15:25:39.820+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFETST4 not responding to ping.]LOG]!><time="15:25:42.203+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2TS6ZH1...]LOG]!><time="15:25:42.429+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2TS6ZH1 not responding to ping.]LOG]!><time="15:25:44.816+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2399YD0...]LOG]!><time="15:25:45.70+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2399YD0 not responding to ping.]LOG]!><time="15:25:47.523+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2104100...]LOG]!><time="15:25:47.777+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2104100 not responding to ping.]LOG]!><time="15:25:50.164+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1165Z1K...]LOG]!><time="15:25:50.375+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1165Z1K not responding to ping.]LOG]!><time="15:25:52.792+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1020LK1...]LOG]!><time="15:25:53.140+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1020LK1 not responding to ping.]LOG]!><time="15:25:55.613+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFETWIST2...]LOG]!><time="15:25:55.859+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFETWIST2 not responding to ping.]LOG]!><time="15:25:59.269+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11018JV...]LOG]!><time="15:25:59.535+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11018JV not responding to ping.]LOG]!><time="15:26:1.937+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2091NBJ...]LOG]!><time="15:26:2.203+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2091NBJ not responding to ping.]LOG]!><time="15:26:4.656+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECWTRAIN89...]LOG]!><time="15:26:4.921+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECWTRAIN89 not responding to ping.]LOG]!><time="15:26:7.296+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1052Y3J...]LOG]!><time="15:26:7.562+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1052Y3J not responding to ping.]LOG]!><time="15:26:10.3+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE-SURFACE4...]LOG]!><time="15:26:10.273+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE-SURFACE4 not responding to ping.]LOG]!><time="15:26:12.648+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEOM1...]LOG]!><time="15:26:12.777+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEOM1 not responding to ping.]LOG]!><time="15:26:15.125+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE4X38ZH1...]LOG]!><time="15:26:15.273+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE4X38ZH1 not responding to ping.]LOG]!><time="15:26:17.625+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE18DN...]LOG]!><time="15:26:17.894+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE18DN not responding to ping.]LOG]!><time="15:26:20.273+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEFUJIT904...]LOG]!><time="15:26:20.539+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEFUJIT904 not responding to ping.]LOG]!><time="15:26:22.917+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE8QS6ZH1...]LOG]!><time="15:26:23.117+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE8QS6ZH1 not responding to ping.]LOG]!><time="15:26:25.500+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2399YD5...]LOG]!><time="15:26:25.773+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2399YD5 not responding to ping.]LOG]!><time="15:26:28.156+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFETESTMINI800...]LOG]!><time="15:26:28.335+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFETESTMINI800 not responding to ping.]LOG]!><time="15:26:30.703+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1052XFD...]LOG]!><time="15:26:30.968+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1052XFD not responding to ping.]LOG]!><time="15:26:33.375+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE210410T...]LOG]!><time="15:26:33.644+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE210410T not responding to ping.]LOG]!><time="15:26:36.406+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE228276V...]LOG]!><time="15:26:36.671+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE228276V not responding to ping.]LOG]!><time="15:26:39.121+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE3409PYL...]LOG]!><time="15:26:39.382+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE3409PYL not responding to ping.]LOG]!><time="15:26:41.894+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE04711TQ...]LOG]!><time="15:26:42.164+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE04711TQ not responding to ping.]LOG]!><time="15:26:44.578+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342Z3C...]LOG]!><time="15:26:44.839+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342Z3C not responding to ping.]LOG]!><time="15:26:47.207+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YRQ...]LOG]!><time="15:26:47.476+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YRQ not responding to ping.]LOG]!><time="15:26:49.875+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE135GK6W...]LOG]!><time="15:26:50.140+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE135GK6W not responding to ping.]LOG]!><time="15:26:52.523+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE5SS6ZH1...]LOG]!><time="15:26:52.789+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE5SS6ZH1 not responding to ping.]LOG]!><time="15:26:55.183+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE23090KJ...]LOG]!><time="15:26:55.449+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE23090KJ not responding to ping.]LOG]!><time="15:26:57.816+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1X74...]LOG]!><time="15:26:57.968+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1X74 not responding to ping.]LOG]!><time="15:27:0.363+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0310FML...]LOG]!><time="15:27:0.636+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0310FML not responding to ping.]LOG]!><time="15:27:3.39+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFESSO4...]LOG]!><time="15:27:3.316+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFESSO4 not responding to ping.]LOG]!><time="15:27:5.722+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE3189YNR...]LOG]!><time="15:27:5.984+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE3189YNR not responding to ping.]LOG]!><time="15:27:8.386+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1021852...]LOG]!><time="15:27:8.656+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1021852 not responding to ping.]LOG]!><time="15:27:11.128+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11018FW...]LOG]!><time="15:27:11.390+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11018FW not responding to ping.]LOG]!><time="15:27:13.777+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE08FQ...]LOG]!><time="15:27:14.50+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE08FQ not responding to ping.]LOG]!><time="15:27:16.707+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YMM...]LOG]!><time="15:27:16.972+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YMM not responding to ping.]LOG]!><time="15:27:19.363+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1020LKC...]LOG]!><time="15:27:19.640+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1020LKC not responding to ping.]LOG]!><time="15:27:22.74+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0221MZF...]LOG]!><time="15:27:22.339+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0221MZF not responding to ping.]LOG]!><time="15:27:24.734+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE05116D6...]LOG]!><time="15:27:24.1000+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE05116D6 not responding to ping.]LOG]!><time="15:27:27.390+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE-SURFACE1...]LOG]!><time="15:27:27.664+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE-SURFACE1 not responding to ping.]LOG]!><time="15:27:30.58+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0500R14...]LOG]!><time="15:27:30.328+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0500R14 not responding to ping.]LOG]!><time="15:27:32.695+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE840G1-TST...]LOG]!><time="15:27:32.960+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE840G1-TST not responding to ping.]LOG]!><time="15:27:35.355+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE23090HL...]LOG]!><time="15:27:35.593+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE23090HL not responding to ping.]LOG]!><time="15:27:38.11+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2YQ4...]LOG]!><time="15:27:38.273+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2YQ4 not responding to ping.]LOG]!><time="15:27:40.671+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE03316C6...]LOG]!><time="15:27:40.941+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE03316C6 not responding to ping.]LOG]!><time="15:27:43.343+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1360PTM...]LOG]!><time="15:27:43.605+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1360PTM not responding to ping.]LOG]!><time="15:27:46.7+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE01KS...]LOG]!><time="15:27:46.277+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE01KS not responding to ping.]LOG]!><time="15:27:48.742+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECWTRAIN02...]LOG]!><time="15:27:49.15+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECWTRAIN02 not responding to ping.]LOG]!><time="15:27:51.410+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0441V7S...]LOG]!><time="15:27:51.683+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0441V7S not responding to ping.]LOG]!><time="15:27:54.113+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE042016Q...]LOG]!><time="15:27:54.378+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE042016Q not responding to ping.]LOG]!><time="15:27:56.804+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECWTRAIN-02...]LOG]!><time="15:27:57.78+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECWTRAIN-02 not responding to ping.]LOG]!><time="15:27:59.468+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YXG...]LOG]!><time="15:27:59.734+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YXG not responding to ping.]LOG]!><time="15:28:2.136+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEREVTEST...]LOG]!><time="15:28:2.417+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEREVTEST not responding to ping.]LOG]!><time="15:28:4.824+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0310L3T...]LOG]!><time="15:28:5.93+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0310L3T not responding to ping.]LOG]!><time="15:28:7.488+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2HS6ZH1...]LOG]!><time="15:28:7.738+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2HS6ZH1 not responding to ping.]LOG]!><time="15:28:10.109+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE3QS6ZH1...]LOG]!><time="15:28:10.382+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE3QS6ZH1 not responding to ping.]LOG]!><time="15:28:12.773+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE810G2...]LOG]!><time="15:28:13.50+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE810G2 not responding to ping.]LOG]!><time="15:28:15.519+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE7WS6ZH1...]LOG]!><time="15:28:15.789+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE7WS6ZH1 not responding to ping.]LOG]!><time="15:28:18.191+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE03310CV...]LOG]!><time="15:28:18.464+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE03310CV not responding to ping.]LOG]!><time="15:28:20.875+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing BOLVRHB16...]LOG]!><time="15:28:21.148+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! BOLVRHB16 not responding to ping.]LOG]!><time="15:28:23.601+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE437B6Z2...]LOG]!><time="15:28:23.871+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE437B6Z2 not responding to ping.]LOG]!><time="15:28:26.308+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE3189YNT...]LOG]!><time="15:28:26.578+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE3189YNT not responding to ping.]LOG]!><time="15:28:28.972+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE4KS6ZH1...]LOG]!><time="15:28:29.246+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE4KS6ZH1 not responding to ping.]LOG]!><time="15:28:31.644+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE03PH...]LOG]!><time="15:28:31.937+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE03PH not responding to ping.]LOG]!><time="15:28:34.335+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2201M19...]LOG]!><time="15:28:34.609+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2201M19 not responding to ping.]LOG]!><time="15:28:37.78+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE210418G...]LOG]!><time="15:28:37.355+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE210418G not responding to ping.]LOG]!><time="15:28:39.808+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE04200V4...]LOG]!><time="15:28:40.82+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE04200V4 not responding to ping.]LOG]!><time="15:28:42.558+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE13614BQ...]LOG]!><time="15:28:42.835+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE13614BQ not responding to ping.]LOG]!><time="15:28:45.468+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEYF3...]LOG]!><time="15:28:45.593+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEYF3 not responding to ping.]LOG]!><time="15:28:47.976+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE6XS6ZH1...]LOG]!><time="15:28:48.246+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE6XS6ZH1 not responding to ping.]LOG]!><time="15:28:50.640+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEDSR89P1...]LOG]!><time="15:28:50.898+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEDSR89P1 not responding to ping.]LOG]!><time="15:28:53.269+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE32W6ZH1...]LOG]!><time="15:28:53.546+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE32W6ZH1 not responding to ping.]LOG]!><time="15:28:55.984+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE96S6ZH1...]LOG]!><time="15:28:56.273+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE96S6ZH1 not responding to ping.]LOG]!><time="15:28:58.675+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1101660...]LOG]!><time="15:28:58.968+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1101660 not responding to ping.]LOG]!><time="15:29:1.433+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEOSDGC06...]LOG]!><time="15:29:1.718+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEOSDGC06 not responding to ping.]LOG]!><time="15:29:4.203+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1052XD3...]LOG]!><time="15:29:4.492+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1052XD3 not responding to ping.]LOG]!><time="15:29:6.902+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2102D6Q...]LOG]!><time="15:29:7.195+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2102D6Q not responding to ping.]LOG]!><time="15:29:9.601+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE04200Y7...]LOG]!><time="15:29:9.894+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE04200Y7 not responding to ping.]LOG]!><time="15:29:12.316+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEZANUDI80...]LOG]!><time="15:29:12.597+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEZANUDI80 not responding to ping.]LOG]!><time="15:29:15.7+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE9480-DEMO...]LOG]!><time="15:29:15.300+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE9480-DEMO not responding to ping.]LOG]!><time="15:29:17.734+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1140KF8...]LOG]!><time="15:29:18.15+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1140KF8 not responding to ping.]LOG]!><time="15:29:20.417+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFETPS1YOGA7...]LOG]!><time="15:29:20.691+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFETPS1YOGA7 not responding to ping.]LOG]!><time="15:29:23.125+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1320VM...]LOG]!><time="15:29:23.437+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1320VM not responding to ping.]LOG]!><time="15:29:25.875+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE419CZCG...]LOG]!><time="15:29:26.160+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE419CZCG not responding to ping.]LOG]!><time="15:29:28.566+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE3189YF7...]LOG]!><time="15:29:28.839+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE3189YF7 not responding to ping.]LOG]!><time="15:29:31.250+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE800MWIFI...]LOG]!><time="15:29:31.531+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE800MWIFI not responding to ping.]LOG]!><time="15:29:33.984+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE9YW9...]LOG]!><time="15:29:34.238+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE9YW9 not responding to ping.]LOG]!><time="15:29:36.621+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE088F...]LOG]!><time="15:29:36.914+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE088F not responding to ping.]LOG]!><time="15:29:39.304+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE411C0LC...]LOG]!><time="15:29:39.492+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE411C0LC not responding to ping.]LOG]!><time="15:29:41.867+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEJZCTPM1...]LOG]!><time="15:29:42.148+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEJZCTPM1 not responding to ping.]LOG]!><time="15:29:44.570+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YKX...]LOG]!><time="15:29:44.796+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YKX not responding to ping.]LOG]!><time="15:29:47.183+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE52W6ZH1...]LOG]!><time="15:29:47.402+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE52W6ZH1 not responding to ping.]LOG]!><time="15:29:49.773+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE437B7VR...]LOG]!><time="15:29:50.58+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:29:50.464+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE437B7VR...]LOG]!><time="15:29:50.679+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[  >> Checking admin$ share...]LOG]!><time="15:29:50.746+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[   ** Admin$ share is healthy on LIFE437B7VR!]LOG]!><time="15:29:50.832+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[* Processing LIFE11403KQ...]LOG]!><time="15:29:50.996+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11403KQ not responding to ping.]LOG]!><time="15:29:53.390+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE437B7VZ...]LOG]!><time="15:29:53.675+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE437B7VZ not responding to ping.]LOG]!><time="15:29:56.207+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE437B6VZ...]LOG]!><time="15:29:56.496+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE437B6VZ not responding to ping.]LOG]!><time="15:29:58.898+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11018JT...]LOG]!><time="15:29:59.191+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11018JT not responding to ping.]LOG]!><time="15:30:1.570+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE4219Z4L...]LOG]!><time="15:30:1.863+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE4219Z4L not responding to ping.]LOG]!><time="15:30:4.316+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE15R2...]LOG]!><time="15:30:4.605+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE15R2 not responding to ping.]LOG]!><time="15:30:7.23+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE33095BM...]LOG]!><time="15:30:7.312+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE33095BM not responding to ping.]LOG]!><time="15:30:9.742+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YGY...]LOG]!><time="15:30:10.27+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YGY not responding to ping.]LOG]!><time="15:30:12.437+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEZANTEST500...]LOG]!><time="15:30:12.726+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEZANTEST500 not responding to ping.]LOG]!><time="15:30:15.132+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2191X3F...]LOG]!><time="15:30:15.437+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2191X3F not responding to ping.]LOG]!><time="15:30:17.855+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE89S6ZH1...]LOG]!><time="15:30:18.140+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE89S6ZH1 not responding to ping.]LOG]!><time="15:30:20.546+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEMXL1070A...]LOG]!><time="15:30:20.796+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEMXL1070A not responding to ping.]LOG]!><time="15:30:23.187+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE02M7...]LOG]!><time="15:30:23.484+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE02M7 not responding to ping.]LOG]!><time="15:30:25.890+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEC1W6ZH1...]LOG]!><time="15:30:26.179+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEC1W6ZH1 not responding to ping.]LOG]!><time="15:30:28.648+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE68SS6ZH1...]LOG]!><time="15:30:28.933+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE68SS6ZH1 not responding to ping.]LOG]!><time="15:30:31.382+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE4219QKS...]LOG]!><time="15:30:31.667+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE4219QKS not responding to ping.]LOG]!><time="15:30:34.128+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2191XBG...]LOG]!><time="15:30:34.410+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2191XBG not responding to ping.]LOG]!><time="15:30:36.851+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE437B65Z...]LOG]!><time="15:30:37.140+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE437B65Z not responding to ping.]LOG]!><time="15:30:39.621+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE236917V...]LOG]!><time="15:30:39.906+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE236917V not responding to ping.]LOG]!><time="15:30:42.464+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11404QJ...]LOG]!><time="15:30:42.750+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11404QJ not responding to ping.]LOG]!><time="15:30:45.242+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11403S5...]LOG]!><time="15:30:45.441+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11403S5 not responding to ping.]LOG]!><time="15:30:47.867+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YXY...]LOG]!><time="15:30:48.160+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YXY not responding to ping.]LOG]!><time="15:30:50.691+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0872...]LOG]!><time="15:30:50.988+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0872 not responding to ping.]LOG]!><time="15:30:53.445+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECW-TRAIN56...]LOG]!><time="15:30:53.730+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECW-TRAIN56 not responding to ping.]LOG]!><time="15:30:56.179+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0221P10...]LOG]!><time="15:30:56.390+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0221P10 not responding to ping.]LOG]!><time="15:30:58.789+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE4219X62...]LOG]!><time="15:30:59.78+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE4219X62 not responding to ping.]LOG]!><time="15:31:1.523+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECWTRAIN46...]LOG]!><time="15:31:1.750+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECWTRAIN46 not responding to ping.]LOG]!><time="15:31:4.203+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2191X5V...]LOG]!><time="15:31:4.503+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2191X5V not responding to ping.]LOG]!><time="15:31:6.937+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECWTRAIN11...]LOG]!><time="15:31:7.152+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECWTRAIN11 not responding to ping.]LOG]!><time="15:31:9.566+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0221R6Z...]LOG]!><time="15:31:9.859+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0221R6Z not responding to ping.]LOG]!><time="15:31:12.937+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0221P77...]LOG]!><time="15:31:13.234+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0221P77 not responding to ping.]LOG]!><time="15:31:15.667+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEZANTEST934...]LOG]!><time="15:31:15.957+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEZANTEST934 not responding to ping.]LOG]!><time="15:31:18.414+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECW-TRAIN77...]LOG]!><time="15:31:18.699+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECW-TRAIN77 not responding to ping.]LOG]!><time="15:31:21.117+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE419D0CV...]LOG]!><time="15:31:21.406+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE419D0CV not responding to ping.]LOG]!><time="15:31:23.808+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11403PF...]LOG]!><time="15:31:24.101+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11403PF not responding to ping.]LOG]!><time="15:31:26.527+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0331...]LOG]!><time="15:31:26.843+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ ** Using username lifesvcsmsadmin2012 succeeded.]LOG]!><time="15:31:27.593+-360" date="01-20-2015" component="testCredentials" context="" type="1" thread="" file="">
+<![LOG[ Checking admin$ share on LIFE0331...]LOG]!><time="15:31:27.742+-360" date="01-20-2015" component="checkAdminShare" context="" type="1" thread="" file="">
+<![LOG[ !! Failed to connect to WMI namespace "root\CIMV2" on LIFE0331. Error -2147023174 (The RPC server is unavailable. )]LOG]!><time="15:31:28.19+-360" date="01-20-2015" component="getWMIObject" context="" type="3" thread="" file="">
+<![LOG[* Processing RGHOSURF03...]LOG]!><time="15:31:28.226+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! RGHOSURF03 not responding to ping.]LOG]!><time="15:31:30.644+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE30HF...]LOG]!><time="15:31:30.925+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE30HF not responding to ping.]LOG]!><time="15:31:33.382+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0GZ...]LOG]!><time="15:31:33.605+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0GZ not responding to ping.]LOG]!><time="15:31:35.992+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE08F2...]LOG]!><time="15:31:36.308+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE08F2 not responding to ping.]LOG]!><time="15:31:38.804+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing BOLVRHB14...]LOG]!><time="15:31:39.93+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! BOLVRHB14 not responding to ping.]LOG]!><time="15:31:41.578+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2132DW8...]LOG]!><time="15:31:41.867+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2132DW8 not responding to ping.]LOG]!><time="15:31:44.281+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE230087P...]LOG]!><time="15:31:44.531+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE230087P not responding to ping.]LOG]!><time="15:31:46.914+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEZANTEST321...]LOG]!><time="15:31:47.203+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEZANTEST321 not responding to ping.]LOG]!><time="15:31:49.628+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEECW-TRAIN19...]LOG]!><time="15:31:49.914+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEECW-TRAIN19 not responding to ping.]LOG]!><time="15:31:52.332+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFEZANBL5...]LOG]!><time="15:31:52.632+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFEZANBL5 not responding to ping.]LOG]!><time="15:31:55.62+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11016DS...]LOG]!><time="15:31:55.312+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11016DS not responding to ping.]LOG]!><time="15:31:57.808+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE135GK06...]LOG]!><time="15:31:58.105+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE135GK06 not responding to ping.]LOG]!><time="15:32:0.574+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE8TS6ZH1...]LOG]!><time="15:32:0.871+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE8TS6ZH1 not responding to ping.]LOG]!><time="15:32:3.304+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1NQK...]LOG]!><time="15:32:3.601+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1NQK not responding to ping.]LOG]!><time="15:32:6.19+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YHS...]LOG]!><time="15:32:6.320+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YHS not responding to ping.]LOG]!><time="15:32:8.808+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE9ZCTPM1...]LOG]!><time="15:32:9.113+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE9ZCTPM1 not responding to ping.]LOG]!><time="15:32:11.511+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1052XJ2...]LOG]!><time="15:32:11.808+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1052XJ2 not responding to ping.]LOG]!><time="15:32:14.218+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE230081S...]LOG]!><time="15:32:14.515+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE230081S not responding to ping.]LOG]!><time="15:32:18.218+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE042011S...]LOG]!><time="15:32:18.523+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE042011S not responding to ping.]LOG]!><time="15:32:20.941+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0GQP...]LOG]!><time="15:32:21.242+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0GQP not responding to ping.]LOG]!><time="15:32:23.648+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE2300891...]LOG]!><time="15:32:23.937+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE2300891 not responding to ping.]LOG]!><time="15:32:26.382+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE07YL...]LOG]!><time="15:32:26.683+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE07YL not responding to ping.]LOG]!><time="15:32:29.101+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE029Z...]LOG]!><time="15:32:29.312+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE029Z not responding to ping.]LOG]!><time="15:32:31.703+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE21722SH...]LOG]!><time="15:32:31.929+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE21722SH not responding to ping.]LOG]!><time="15:32:34.316+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE11401LT...]LOG]!><time="15:32:34.605+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE11401LT not responding to ping.]LOG]!><time="15:32:37.23+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE0280NVW...]LOG]!><time="15:32:37.320+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE0280NVW not responding to ping.]LOG]!><time="15:32:39.753+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1342YTH...]LOG]!><time="15:32:40.54+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1342YTH not responding to ping.]LOG]!><time="15:32:42.488+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE7NS6ZH1...]LOG]!><time="15:32:42.734+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE7NS6ZH1 not responding to ping.]LOG]!><time="15:32:45.117+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[* Processing LIFE1FY7...]LOG]!><time="15:32:45.429+-360" date="01-20-2015" component="InitiateRemoteConnection" context="" type="1" thread="" file="">
+<![LOG[ !! LIFE1FY7 not responding to ping.]LOG]!><time="15:32:47.898+-360" date="01-20-2015" component="pingClient" context="" type="3" thread="" file="">
+<![LOG[----------------------------------------]LOG]!><time="15:32:47.960+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Action completed in 7 minute(s) and 31 second(s).]LOG]!><time="15:32:48.7+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Total computers in the list: 171]LOG]!><time="15:32:48.39+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Total online/offline: 10 / 161]LOG]!><time="15:32:48.54+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Total healthy/not healthy: 10 / 0]LOG]!><time="15:32:48.74+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Total failed: 162]LOG]!><time="15:32:48.93+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[Total WMI failures: 1, total without SMS Agent Host: 0]LOG]!><time="15:32:48.113+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[---- Logging finished 1/20/2015 3:32:48 PM ----]LOG]!><time="15:32:48.128+-360" date="01-20-2015" component="COMMON" context="" type="1" thread="" file="">
+<![LOG[]LOG]!><time="15:32:48.148+-360" date="01-20-2015" component="" context="" type="1" thread="" file="">
