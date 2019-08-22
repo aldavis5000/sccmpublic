@@ -12,16 +12,12 @@ If ($Mode -eq "Install")
  
 {
 
-#Try the Install and return results
-Try {
-    Start-Process -FilePath $applicationuninstall -ArgumentList $parms -Wait
-    start-process -FilePath $application -ArgumentList $parms -wait
-    }
-Catch {
-    Write-Error -Message $_
-    Exit 1
-    }
+Start-Process -FilePath $applicationuninstall -ArgumentList $parms -Wait
+& $application $parms
+sleep -Seconds 180
+ 
 }
+
  
 If ($Mode -eq "Uninstall")
  
