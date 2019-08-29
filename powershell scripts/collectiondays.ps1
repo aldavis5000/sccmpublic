@@ -1,4 +1,9 @@
 #script to change the number of elav days on a collection but not the date and time.
+#orginal script from Michael.Olson
+#https://gallery.technet.microsoft.com/scriptcenter/Powershell-How-to-Change-2803470c
+
+#change the server and site code for your site!
+#line 14 and 37
 
 CD $env:SMS_ADMIN_UI_PATH\..\
 import-module .\ConfigurationManager.psd1
