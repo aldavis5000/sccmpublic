@@ -3,7 +3,7 @@
 #https://gallery.technet.microsoft.com/scriptcenter/Powershell-How-to-Change-2803470c
 
 #change the server and site code for your site!
-#line 14 and 37
+#line 14,37,39
 
 CD $env:SMS_ADMIN_UI_PATH\..\
 import-module .\ConfigurationManager.psd1
